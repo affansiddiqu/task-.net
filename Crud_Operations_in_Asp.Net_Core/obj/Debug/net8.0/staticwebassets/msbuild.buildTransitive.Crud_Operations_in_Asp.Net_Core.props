@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Crud_Operations_in_Asp.Net_Core.props" />
+</Project>

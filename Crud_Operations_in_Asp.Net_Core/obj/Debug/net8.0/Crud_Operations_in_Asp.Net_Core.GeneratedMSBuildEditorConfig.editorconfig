@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Crud_Operations_in_Asp.Net_Core
+build_property.RootNamespace = Crud_Operations_in_Asp.Net_Core
+build_property.ProjectDir = D:\Asp.Net Core MVC\Aptech Work\Crud_Operations\Crud_Operations_in_Asp.Net_Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Asp.Net Core MVC\Aptech Work\Crud_Operations\Crud_Operations_in_Asp.Net_Core
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Admin/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Home/Thankyou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGFua3lvdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Shared/_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.Net Core MVC/Aptech Work/Crud_Operations/Crud_Operations_in_Asp.Net_Core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a0jabgpb3d

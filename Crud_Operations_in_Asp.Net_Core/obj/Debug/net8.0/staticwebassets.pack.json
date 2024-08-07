@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Crud_Operations_in_Asp.Net_Core.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Crud_Operations_in_Asp.Net_Core.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\images\\bowl-2.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\images\\bowl-3.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\images\\person-1.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\uploads\\242901042918product-1.png",
+      "PackagePath": "staticwebassets\\uploads\\242901042918product-1.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\uploads\\243304033327couch.png",
+      "PackagePath": "staticwebassets\\uploads\\243304033327couch.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\uploads\\243304033345product-1.png",
+      "PackagePath": "staticwebassets\\uploads\\243304033345product-1.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\uploads\\243801043853product-2.png",
+      "PackagePath": "staticwebassets\\uploads\\243801043853product-2.png"
+    },
+    {
+      "Id": "D:\\Asp.Net Core MVC\\Aptech Work\\Crud_Operations\\Crud_Operations_in_Asp.Net_Core\\wwwroot\\uploads\\244504044542product-2.png",
+      "PackagePath": "staticwebassets\\uploads\\244504044542product-2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Crud_Operations_in_Asp.Net_Core.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Crud_Operations_in_Asp.Net_Core.props",
+      "PackagePath": "build\\Crud_Operations_in_Asp.Net_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Crud_Operations_in_Asp.Net_Core.props",
+      "PackagePath": "buildMultiTargeting\\Crud_Operations_in_Asp.Net_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Crud_Operations_in_Asp.Net_Core.props",
+      "PackagePath": "buildTransitive\\Crud_Operations_in_Asp.Net_Core.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
